@@ -23,11 +23,11 @@ El objetivo es comprender cómo funciona la prioridad y aplicación de estilos e
 
 El archivo index.html contiene:
 
-Encabezados <h1> y <h5>
+Encabezados #  y #####
 
-Elementos semánticos como <section>, <aside>, <article>
+Elementos semánticos como ##section##, ##aside##, ##article##
 
-Elementos <div>
+Elementos ##div##
 
 Uso de id y class para aplicar estilos específicos
 
@@ -66,4 +66,5 @@ Selectores CSS
 Especificidad en CSS
 
 Estilos globales con selector universal
+
 

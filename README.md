@@ -33,7 +33,7 @@ Uso de id y class para aplicar estilos específicos
 
 ## 🎨 Código CSS
 
-El archivo SIMPLESECTION.CSS incluye:
+#### El archivo SIMPLESECTION.CSS incluye:
 
 #d1 → Aplica fondo rojo a un elemento específico.
 
@@ -66,5 +66,6 @@ Selectores CSS
 Especificidad en CSS
 
 Estilos globales con selector universal
+
 
 

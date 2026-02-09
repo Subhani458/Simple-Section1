@@ -1,5 +1,5 @@
 # Proyecto: Simple Section HTML & CSS
-## 📌 Descripción
+## 📌 Descripcion
 
 Este proyecto es una práctica básica de HTML5 y CSS3 donde se aplican diferentes tipos de selectores:
 
@@ -19,7 +19,7 @@ El objetivo es comprender cómo funciona la prioridad y aplicación de estilos e
 ├── index.html
 ├── SIMPLESECTION.CSS
 └── README.md
-## 🧾 Código HTML
+## 🧾 Codigo HTML
 
 El archivo index.html contiene:
 
@@ -31,7 +31,7 @@ Elementos ##div##
 
 Uso de id y class para aplicar estilos específicos
 
-## 🎨 Código CSS
+## 🎨 Codigo CSS
 
 #### El archivo SIMPLESECTION.CSS incluye:
 
@@ -45,7 +45,7 @@ aside, article, h5 → Aplica fondo azul a estos elementos.
 
 * → Aplica fondo chartreuse a todos los elementos (selector universal).
 
-## ⚙️ Cómo usar el proyecto
+## ⚙️ Como usar el proyecto
 
 Guarda el archivo HTML como index.html
 
@@ -66,6 +66,7 @@ Selectores CSS
 Especificidad en CSS
 
 Estilos globales con selector universal
+
 
 
 
